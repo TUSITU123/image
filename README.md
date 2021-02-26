@@ -1,2 +1,3 @@
 # image
-我的图床
+This is TUSITU's images
+这是吐司兔的图床
